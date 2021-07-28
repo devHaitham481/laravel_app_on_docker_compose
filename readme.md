@@ -1,6 +1,9 @@
 # Travellist - Laravel Demo App
 
-This is a Laravel demo application.
+This is a Laravel demo application hosted on docker on three different service containers :- 
+    - Application Container: contains the application code 
+    - Database Container: contains the MySQL database container
+    - Nginx Container
 
 Relevant Tutorials:
 
